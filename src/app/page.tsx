@@ -11,7 +11,7 @@ type AllPostsData = {
 }[]
 
 // Change this url to change the image!
-const imageUrl = 'https://unsplash.com/photos/P_nM4HIeX8Y';
+const imageUrl = 'https://unsplash.com/photos/0fxg9U_Ye-s';
 const imageKey = imageUrl.split('/').at(-1);
 
 export default function Home() {
